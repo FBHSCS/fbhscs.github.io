@@ -1,0 +1,50 @@
+#banner {
+    background-color: maroon;
+    color: white;
+    height: 200px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0px;
+    line-height: 100px;
+}
+
+body {
+    margin: 0px;
+    background-color: rgb(219, 219, 219);
+}
+
+
+li {
+    padding: 10px;
+    display: inline;
+}
+
+#navBar {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+h2 {
+    padding-left: 5px;
+    text-align: center;
+}
+
+.bodyText {
+    color: #5b120c;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align:center
+}
+
+#copyright {
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    position: fixed
+}
