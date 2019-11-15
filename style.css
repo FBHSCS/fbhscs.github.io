@@ -35,6 +35,10 @@ h2 {
     text-align: center;
 }
 
+.italicFont {
+    font-style: italic;
+}
+
 .bodyText {
     color: #5b120c;
     padding-left: 20px;
